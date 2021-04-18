@@ -1,0 +1,70 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template/heroic-features)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+  background-color: #EEEBDD;
+}
+nav{
+  position: fixed;
+  width: 100%;
+  margin-top: -50px;
+}
+nav .navbar-brand{
+  font-family: 'Orelega One', cursive;
+  color: #1B1717;
+  font-size: 20px;
+}
+
+ .navbar-collapse ul li.nav-item{
+  font-family: 'Comfortaa', cursive;
+  color: #1B1717;
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+section.portofolio-gede img{
+  margin-top: 250px;
+}
+
+section.about-me{
+  margin-top: 500px;
+}
+
+.about-me-subheading{
+  font-family: 'Lobster', cursive;
+  font-size: 93px;
+}
+.about-me-content{
+  font-family: 'Comfortaa', cursive;
+  font-size: 18px;
+}
+.foto-profil{
+  width: 555px;
+  height: 592px;
+}
+.about-me-col{
+  margin-top: 50px;
+}
+section.profil-singkat{
+  margin-top: 300px;
+}
+
+.checked {
+  color: #707070;
+}
+
+section.portofolio-kumpulan{
+  margin-top: 300px;
+  margin-bottom: 300px;
+}
+
+section.portofolio-kumpulan h1.heading-kumpulan{
+  font-size: 98px;
+  font-family: 'Lobster', cursive;
+}
+section.portofolio-kumpulan .row-kumpulan{
+ margin-top: 98px;
+}
