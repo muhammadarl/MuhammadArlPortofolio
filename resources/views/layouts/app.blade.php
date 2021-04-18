@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Heroic Features - Start Bootstrap Template</title>
+  <title>Portofolio</title>
 
   <!-- Bootstrap core CSS -->
   @include('includes.style')
