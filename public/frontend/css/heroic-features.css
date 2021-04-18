@@ -68,3 +68,21 @@ section.portofolio-kumpulan h1.heading-kumpulan{
 section.portofolio-kumpulan .row-kumpulan{
  margin-top: 98px;
 }
+
+section.portofolio-kumpulan h1.subheading-kumpulan{
+  font-size: 30px;
+  font-family: 'Orelega One', cursive;
+  color: #810000;
+ }
+
+ section.portofolio-kumpulan p.content-kumpulan{
+  color:#1B1717;
+  font-family: 'Comfortaa', cursive; 
+  font-size:15px;
+ }
+ section.portofolio-kumpulan .kotak-konten{
+  height: 600px;
+ }
+ section.portofolio-kumpulan .konten-gambar{
+  height: 300px;
+ }
