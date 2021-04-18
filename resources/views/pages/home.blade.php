@@ -157,7 +157,7 @@
                     <div class="card-body">
                         <h1 class="subheading-kumpulan">IN Group Logo</h1>
                         <hr>
-                        <p class="card-text content-kumpulan">IN Group merupakan grup perusahaan startup yang menggeluti di sektor teknologi</p>
+                        <p class="card-text content-kumpulan">IN Group is a group of startup companies that are engaged in the technology sector</p>
                     </div>
                 </div>
             </div>
