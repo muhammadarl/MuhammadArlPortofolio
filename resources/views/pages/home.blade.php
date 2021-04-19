@@ -132,7 +132,7 @@
         <div class="row row-kumpulan">
             <div class="col-sm-4">
                 <div class="card kotak-konten">
-                    <img class="card-img-top konten-gambar" src="https://drive.google.com/thumbnail?id=1jJtxbTsKMxo0CcRbZN5FpiCij2a7Sq-9" alt="Card image cap">
+                    <img class="card-img-top konten-gambar" src="{{url('frontend/img/prvw3.jpg')}}" alt="Card image cap">
                     <div class="card-body">
                         <h1 class="subheading-kumpulan">Omiku Universe Logo</h1>
                         <hr>
@@ -143,7 +143,7 @@
             </div>
             <div class="col-sm-4">
                 <div class="card kotak-konten">
-                    <img class="card-img-top konten-gambar" src="https://drive.google.com/thumbnail?id=1JnByX0TIeu_g7ijEHRT16gM0xZsyHAaj" alt="Card image cap">
+                    <img class="card-img-top konten-gambar" src="{{url('frontend/img/prvw.jpg')}}" alt="Card image cap">
                     <div class="card-body">
                         <h1 class="subheading-kumpulan">Wisma Clothing Logo</h1>
                         <hr>
@@ -153,11 +153,11 @@
             </div>
             <div class="col-sm-4">
                 <div class="card kotak-konten">
-                    <img class="card-img-top konten-gambar" src="https://drive.google.com/thumbnail?id=1MGScF9kXQlmjU4phOgEUbD7IRCFioQE4" alt="Card image cap">
+                    <img class="card-img-top konten-gambar" src="{{url('frontend/img/prvw2.jpg')}}" alt="Card image cap">
                     <div class="card-body">
                         <h1 class="subheading-kumpulan">IN Group Logo</h1>
                         <hr>
-                        <p class="card-text content-kumpulan">IN Group is a group of startup companies that are engaged in the technology sector</p>
+                        <p class="card-text content-kumpulan">IN Group merupakan grup perusahaan startup yang menggeluti di sektor teknologi</p>
                     </div>
                 </div>
             </div>
